@@ -1,2 +1,3 @@
 # candy-shop.php
-Loja de balas em php
+Fazendo código em php e css de loja de balas
+#produzindo...
